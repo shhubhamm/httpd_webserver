@@ -1,0 +1,5 @@
+---
+# vars file for httpd_webserver
+
+package_name: "httpd"
+service_name: "httpd"
